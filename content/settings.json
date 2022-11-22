@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "",
-  "logo": "/img/uploads/.png",
+  "logo": "/img/uploads/shreeli.png",
   "name": "Shreeli",
   "short_name": "Shreeli",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/.png",
+  "favicon": "/img/uploads/shreeli.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "",
-  "icon": "/img/uploads/.png",
+  "icon": "/img/uploads/shreeli.png",
   "store_id": 1052,
   "description": "Your supermarket",
-  "large_icon": "/img/uploads/.png"
+  "large_icon": "/img/uploads/shreeli.png"
 }
