@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ca26149699020e546bb27dc966fe49ad.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6c6d0702adf9e0f27eaf3ebcbfb3af34.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.08781c60869d84357041c2b25f2c0028.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a83217928cdef83f2b7d175d7c0d7840.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ce30175fe6ba1c565620a2873cf6d26a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Shreeli",
+  "short_name": "Shreeli",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Your supermarket",
+  "background_color": "#ffffff",
+  "theme_color": "#20c997"
+}
