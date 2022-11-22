@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "",
