@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/.png",
   "store_id": 1052,
   "description": "Your supermarket",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/.png"
 }
